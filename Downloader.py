@@ -4,9 +4,7 @@ import urllib
 import json
 import os
 
-
 soundcloudurl = raw_input("SoundCloud URL: ")
-
 
 def finduser():
     try:
